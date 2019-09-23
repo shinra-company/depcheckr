@@ -1,0 +1,25 @@
+{
+  "name": "depcheckr",
+  "version": "1.0.0",
+  "description": "depcheckr, by SHIN-RA©神羅カンパニー",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shinra-company/depcheckr.git"
+  },
+  "keywords": [
+    "dependencies"
+  ],
+  "author": "SHIN-RA©神羅カンパニー",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/shinra-company/depcheckr/issues"
+  },
+  "homepage": "https://github.com/shinra-company/depcheckr#readme",
+  "dependencies": {
+    "inflection": "^1.12.0"
+  }
+}
